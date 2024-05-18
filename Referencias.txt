@@ -1,0 +1,13 @@
+https://www.rdocumentation.org/packages/DNAcopy/versions/1.46.0/topics/CNA
+
+alteraciones del número de copias (CNA). 
+Copy number alteration (CNA)
+
+
+polimorfismos de nucleótido único (SNP por sus siglas en inglés)
+single nucleotide polymorphism (SNP)
+
+
+
+# Cargar y analizar menos casos
+https://www.genome.gov/genetics-glossary/Single-Nucleotide-Polymorphisms#:~:text=A%20single%20nucleotide%20polymorphism%20(abbreviated,base%20position%20in%20the%20DNA.

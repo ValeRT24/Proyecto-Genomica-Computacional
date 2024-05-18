@@ -1,0 +1,2 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+946316a2-342c-54a0-8b66-508ba5a6170c	11645	case	30a1fe5e-5b12-472c-aa86-c2db8167ab23	Neoadjuvant therapy	Notification	2012-10-31T00:00:00	Approved	Per enrollment form, patient received neo-adjuvant therapy.
