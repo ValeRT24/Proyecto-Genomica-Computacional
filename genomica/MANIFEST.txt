@@ -1,0 +1,3 @@
+id	filename	md5	size	state
+49b30674-0b06-4659-90d8-76f5415dff03	49b30674-0b06-4659-90d8-76f5415dff03/TRIBE_p_TCGAaffx_B1_2_GBM_Nsp_GenomeWideSNP_6_E04_155772.grch38.seg.v2.txt	4d10c25671f6d29b0d9f40c5d0cf1ea2	25856	validated
+\N	49b30674-0b06-4659-90d8-76f5415dff03/annotations.txt	0435a48ba2e7f633cee8d9d1b5009cde	298	\N
