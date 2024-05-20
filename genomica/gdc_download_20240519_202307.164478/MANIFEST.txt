@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+89a12eee-b8b3-40e0-86d5-91bec19d38bb	89a12eee-b8b3-40e0-86d5-91bec19d38bb/STAIR_p_TCGA_Batch7_Affx_N_GenomeWideSNP_6_D12_238448.nocnv_grch38.seg.v2.txt	5425fa2e9894d26d19e1f818bbd00082	3822	validated
